@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-gelatinous-cube
+  x-cortex-tag: monster-gelatinous-cube
+  x-cortex-custom-metadata:
+    alignment: neutral
+    type: plant
+    challenge_rating: 2
+    legendary: true
+    armor_class: 20
+    hit_points: 147
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-gelatinous-cube
+      alias: github-token-test
